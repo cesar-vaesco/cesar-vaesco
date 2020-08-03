@@ -1,5 +1,5 @@
 # Hola, soy César. Bienvenidos a mi perfil de GitHub! :smiley: 👋 :fireworks: 💻
-![césar](https://raw.github.com/cesar-vaesco/cesar-vaesco/master/banner-cesar.jpg) 
+![césar](https://raw.github.com/cesar-vaesco/cesar-vaesco/master/cesar-banner.jpg) 
 
 <!--
 **cesar-vaesco/cesar-vaesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
