@@ -1,9 +1,10 @@
 # Hola, soy César. Bienvenidos a mi perfil de GitHub! :smiley: 👋 :fireworks: 💻
 ![césar](https://raw.github.com/cesar-vaesco/cesar-vaesco/master/cesar-banner.jpg) 
 
-## *Portafolio* 
- * _Apí-rest_ básica con Spring (CRUD) usando swagger: https://github.com/cesar-vaesco/Spring-Api-Rest-Basica
- * _Api-rest_ básci con Spring (CRUD) usando mongoDB como gestor de base de datos: https://github.com/cesar-vaesco/crud_mongo_spring1
+## *Practicas* 
+ * _Apí-rest_ básica con Spring implementando swagger: https://github.com/cesar-vaesco/Spring-Api-Rest-Basica
+ * _Api-rest_ básica con Spring (1.3.5) usando mongoDB como gestor de base de datos: https://github.com/cesar-vaesco/crud_mongo_spring1
+ * _Api-rest_ básica con Spring (2.3.5) usando mongoDB como gestor de base de datos: https://github.com/cesar-vaesco/crud_mongo_spring2
 <!--
 **cesar-vaesco/cesar-vaesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
