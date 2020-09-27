@@ -3,6 +3,7 @@
 
 ## *Practicas* 
  * _Apí-rest_ básica con Spring implementando swagger: https://github.com/cesar-vaesco/Spring-Api-Rest-Basica
+ * _Apí-rest_ básica con Spring con generación de reportes en excel y pdf: https://github.com/cesar-vaesco/CRUD_Spring/tree/master
  * _Api-rest_ básica con Spring (1.3.5) usando mongoDB como gestor de base de datos: https://github.com/cesar-vaesco/crud_mongo_spring1
  * _Api-rest_ básica con Spring (2.3.5) usando mongoDB como gestor de base de datos: https://github.com/cesar-vaesco/crud_mongo_spring2
 <!--
