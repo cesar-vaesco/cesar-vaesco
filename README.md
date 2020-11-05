@@ -1,7 +1,7 @@
 # Hola, soy César. Bienvenidos a mi perfil de GitHub! :smiley: 👋 :fireworks: 💻
 ![césar](https://raw.github.com/cesar-vaesco/cesar-vaesco/master/cesar-banner.jpg) 
 
-## *Practicas* 
+## *Prácticas* 
  * _Apí-rest_ básica con Spring implementando swagger: [Link](https://github.com/cesar-vaesco/Spring-Api-Rest-Basica) de repositorio
  * _Apí-rest_ básica con Spring con generación de reportes en excel y pdf, usando el motor de plantillas Thymeleaf: [Link](https://github.com/cesar-vaesco/CRUD_Spring) de repositorio
  * _Api-rest_ básica con Spring (1.3.5) usando mongoDB como gestor de base de datos: [Link](https://github.com/cesar-vaesco/crud_mongo_spring1) de repositorio
