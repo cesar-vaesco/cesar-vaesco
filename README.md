@@ -9,6 +9,9 @@
  * [JDBC Prácticas para conocer como funciona SQL, JDBC, uso de transacciones, pools de conexiones, Maven y Spring Framework](https://github.com/cesar-vaesco/JDBC-Spring-Curso)
  * [Apí-rest básica usando Angular y Firebases](https://github.com/cesar-vaesco/CRUD-Angular-Firebases)
  * [Api-rest con React y Spring boot](https://github.com/cesar-vaesco/ReactJS-SpringBoot-CRUD-APP)
+ * [App UpTask con node-pug-mysql-heroku](https://github.com/cesar-vaesco/UpTask-Node)
+    ![Agregando tarea](https://raw.githubusercontent.com/cesar-vaesco/UpTask-Node/main/public/img/crear-cuenta.png)
+
 <!--
 **cesar-vaesco/cesar-vaesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
