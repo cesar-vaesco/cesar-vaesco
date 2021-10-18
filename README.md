@@ -2,7 +2,8 @@
 ![césar](https://raw.github.com/cesar-vaesco/cesar-vaesco/master/Banner.jpg) 
 
 ## *Prácticas* 
-* [Apí *Tareas* creada con Spring Angular y Mongo](https://gitlab.com/cesar-vaesco/api-tareas)
+ * [Apí *Tareas* creada con Spring Angular y Mongo](https://gitlab.com/cesar-vaesco/api-tareas)
+ * [Apí *Tareas* creada con Spring React y Mongo](https://bitbucket.org/cesar-dev/api-tareas/src/main/)
  * [Apí-rest básica con Spring implementando swagger](https://github.com/cesar-vaesco/Spring-Api-Rest-Basica)
  * [Apí-rest_básica con Spring con generación de reportes en excel y pdf, usando el motor de plantillas Thymeleaf](https://github.com/cesar-vaesco/CRUD_Spring)
  * [Api-rest_básica con Spring (1.3.5) usando mongoDB como gestor de base de datos](https://github.com/cesar-vaesco/crud_mongo_spring1)
